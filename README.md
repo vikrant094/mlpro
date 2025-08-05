@@ -1,1 +1,1 @@
-# mlpro
+# End-to-End ML project
